@@ -2,16 +2,16 @@
 
 }
 
-#comments_thump_pic{
+.comments_thump_pic{
 margin-top: 10px;
 margin-left: 20px;
 }
 
-#resizeNot {
+.resizeNot {
   resize: none;
   height: 100px;
 }
 
-#comments_submit_btn{
-  margin:15%;
+.comments_submit_btn{
+  margin:8%;
 }
