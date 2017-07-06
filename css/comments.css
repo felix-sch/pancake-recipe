@@ -1,6 +1,9 @@
 .inputTagCss{
 
 }
+body{
+  overflow-x: hidden;
+}
 .row .comments{
   margin-top: 20px;
 }
